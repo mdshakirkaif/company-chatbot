@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-experimental
+langchain-pinecone
+langchain-groq
+langchain-huggingface
+pypdf
+fastapi
+python-dotenv
+streamlit
+uvicorn
+pydantic
+httpx
+requests
+
+-e .
