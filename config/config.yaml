@@ -1,0 +1,4 @@
+llm:
+  hugging-face:
+    provider: "hugging-face"
+    model_name: "mdshakirkaif/company-policy-bot"

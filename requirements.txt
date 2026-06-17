@@ -12,5 +12,8 @@ uvicorn
 pydantic
 httpx
 requests
+peft
+torch
+transformers
 
 -e .
